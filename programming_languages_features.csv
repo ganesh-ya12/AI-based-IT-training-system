@@ -1,0 +1,11 @@
+Language,Object-Oriented,Functional,Procedural,Static Typing,Dynamic Typing,Memory Management,Multi-Threading,Standard Library,Cross-Platform,Community Size,IDE Support
+Python,1,1,1,0,1,Garbage Collected,1,Extensive,1,Large,High
+Java,1,0,1,1,0,Garbage Collected,1,Extensive,1,Large,High
+C++,1,0,1,1,0,Manual,1,Moderate,1,Large,High
+C#,1,0,1,1,0,Garbage Collected,1,Extensive,1,Large,High
+JavaScript,1,1,1,0,1,Garbage Collected,1,Moderate,1,Large,High
+Go,0,0,1,1,0,Garbage Collected,1,Moderate,1,Medium,Medium
+Rust,1,0,1,1,0,Garbage Collected,1,Moderate,1,Medium,Medium
+Ruby,1,1,1,0,1,Garbage Collected,0,Extensive,1,Medium,Medium
+Swift,1,0,1,1,0,Garbage Collected,1,Extensive,1,Medium,High
+Haskell,0,1,0,1,0,Garbage Collected,0,Moderate,1,Small,Low
